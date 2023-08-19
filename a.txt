@@ -3,3 +3,4 @@ Uma
 Atualização
 Do arquivo
 funcionalidade a
+funcionalidade b
